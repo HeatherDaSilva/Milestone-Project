@@ -1,0 +1,151 @@
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    height: 500px;
+    float: left;
+}
+
+.third-width {
+    width: 400px;
+    float: left;
+}
+
+.top-section {
+    height: 750px;
+    background: url('../img/hero-background.png');
+    background-size: cover;
+    color: white;
+
+}
+
+.top-section h2 {
+  vertical-align: middle;  
+}
+
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 17px 20px;
+}
+
+header {
+    width: 100%;
+    height: 15px;
+    margin: 0;
+   
+    background-color: black;
+    color: white;
+    
+    
+}
+
+header h1 {
+    float: left;
+    margin: 0;
+   
+    font-size: 30px;
+    text-align: left;
+    font-weight: normal;
+}
+
+header nav {
+    float: right;
+  
+ 
+   
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    font-size: 30px;
+   
+    display: inline;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding-left: 45px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-size: 24px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.top-section h2 {
+    font-size: 72px;
+    clear: both;
+    padding-top: 350px;
+    
+}
+
+h2 span {
+    color: #fa0075;
+}
+
+#work h2 {
+    text-align: center;
+    color: #fa0075;
+}
+
+#about h2 {
+    text-align: center;
+    color: #fa0075; 
+}
+
+#contact h2 {
+    text-align: center;
+    color: #fa0075; 
+}
+
+#about {
+    background: url('../img/about-photo.png');
+    clear: both;
+    color: black;
+    padding: 20px 0 25px 0;
+    
+}
+
+#about h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#about p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+#contact {
+    text-align: center;
+}
+
+#contact img {
+    padding: 15px;
+    margin: 0 auto;
+}
+
